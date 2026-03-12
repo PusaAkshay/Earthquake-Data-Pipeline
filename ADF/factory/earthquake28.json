@@ -1,0 +1,9 @@
+{
+	"name": "earthquake28",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39d159a2-f740-49e9-a3e4-55a1bcf33941",
+		"tenantId": "2e185e42-326c-41c0-9226-6487eff382b8"
+	}
+}
