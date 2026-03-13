@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "earthquake28"
+		},
+		"AzureDatabricks1_accessToken": {
+			"value": ""
+		},
+		"ls_adls_accountKey": {
+			"value": ""
+		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "0312-164835-vm9m88t7"
+		},
+		"HttpServer1_properties_typeProperties_url": {
+			"value": " https://earthquake.usgs.gov"
+		},
+		"ls_adls_properties_typeProperties_url": {
+			"value": "https://adlsearthquake.dfs.core.windows.net/"
+		},
+		"stoarge_trigger_properties_typeProperties_scope": {
+			"value": "/subscriptions/5517cc6b-fb89-45bc-8d91-29266321bc10/resourceGroups/Earthquake_project28/providers/Microsoft.Storage/storageAccounts/adlsearthquake"
+		}
+	}
+}
