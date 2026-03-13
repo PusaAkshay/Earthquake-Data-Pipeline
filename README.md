@@ -9,6 +9,7 @@ This project demonstrates how to build a modern data pipeline using cloud tools 
 Architecture
 ![Architecture](https://github.com/PusaAkshay/Earthquake-Data-Pipeline/blob/bbaaaa892760b5c2d84308fd371c300d130034ed/Architecture.png.png)
 
+---
 
 USGS REST API (all_day.geojson)
           ↓
