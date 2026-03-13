@@ -7,4 +7,4 @@ An end-to-end Data Engineering project on Azure that ingests earthquake data fro
 This project demonstrates how to build a modern data pipeline using cloud tools and big data processing.
 
 Architecture
-![Architecture]()
+![Architecture](https://github.com/PusaAkshay/Earthquake-Data-Pipeline/blob/bbaaaa892760b5c2d84308fd371c300d130034ed/Architecture.png.png)
