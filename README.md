@@ -20,7 +20,7 @@ Every day, the pipeline automatically:
 
 ## 🏗️ Architecture
 
-![Architecture](https://github.com/PusaAkshay/Earthquake-Data-Pipeline/blob/5b13ad071cea12a6e6a9253cc21b7f11d37130de/Architecture.png.png)
+![Architecture](https://github.com/PusaAkshay/Earthquake-Data-Pipeline/blob/61b5efb65f80d97e8c937008482c2ae0005509f6/Architecture%20(2).png)
 
 ```
 USGS REST API (all_day.geojson)
